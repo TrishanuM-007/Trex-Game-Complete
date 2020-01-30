@@ -1,2 +1,2 @@
-# Trex-Game-Complete
-The entire Trex Google game
+# trex
+Chrome's trex game created using p5.play
